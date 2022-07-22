@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi, my name is Yamila</h1>
 <h3 align="center">
-I am a Full Stack Developer from Argentina and I am currently looking for new opportunities that allow me to grow. I am currently working on personal projects to further my career as a developer.</h3>
+My enthusiasm for coding began by investigating in a self-taught way what impulse I could give to an e-commerce being my first approach to the IT world.</h3>
 <h3 align="center">Know about me in my <a href="https://drive.google.com/file/d/1iaXPAzWQp1lVSY8o7hvwCg4pVmvonAVN/view?usp=sharing" target="_blank" rel="noreferrer"> Resume.</a></h3>
 
 <h3 align="center">Languages and Tools:</h3>
