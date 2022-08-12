@@ -6,7 +6,7 @@
 <h1 align="center">Hi, my name is Yamila</h1>
 <h3 align="center">
 My enthusiasm for coding began by investigating in a self-taught way what impulse I could give to an e-commerce being my first approach to the IT world.</h3>
-<h3 align="center">Know about me in my <a href="https://drive.google.com/file/d/1OdQDSQj5jrCSIPjg5SaOejg7Pp4TmquK/view?usp=sharing" target="_blank" rel="noreferrer"> Resume.</a></h3>
+<h3 align="center">Know about me in my <a href="https://drive.google.com/file/d/1BxTamE1YCwSnDJqlIi-WpJb3oGgomy9Y/view?usp=sharing" target="_blank" rel="noreferrer"> Resume.</a></h3>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
