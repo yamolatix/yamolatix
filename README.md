@@ -1,4 +1,4 @@
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://linkedin.com/in/yamilaortiztoscano/) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)(https://youtube.com/channel/UCuvGFrZnm55ALa7q-59TMMA) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yamilaortiztoscano/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCuvGFrZnm55ALa7q-59TMMA) 
 <h1 align="center">Hi, my name is Yamila</h1>
 
 #### 💫 About Me:
