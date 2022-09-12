@@ -2,8 +2,9 @@
 <h3 align="center">Know about me in my <a href="https://drive.google.com/file/d/1h7Jp-ll2XNtmZ6l_KTw1UW1gl_IfCRCF/view?usp=sharing" target="_blank" rel="noreferrer"> Resume</a> and <a href="https://yamilaortiztoscano.com.ar/" target="_blank" rel="noreferrer"> Portfolio.</a></h3> 
 
 #### 💫 About Me:
-<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/yamilaortiztoscano/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCuvGFrZnm55ALa7q-59TMMA) 
+
 I’m building an e-commerce app.<br>
 I’m looking to collaborate on backend software engineering projects<br>
 I’m currently learning React Native.<br>
