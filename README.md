@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamilaortiztoscano) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCuvGFrZnm55ALa7q-59TMMA) 
 
-<p>👨‍💻 I’m building an e-commerce app.</p>
+/*<p>👨‍💻 I’m building an e-commerce app.</p>*/
 <p>📚 I’m currently practice English and Vanilla JS.</p>
 <p>🤖 I’m looking for collaborate on backend software engineering projects</p>
 
