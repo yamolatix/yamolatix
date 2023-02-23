@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamilaortiztoscano) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCuvGFrZnm55ALa7q-59TMMA) 
 
-<p>📚 Currently, I'm improving my English and Vanilla JS skills</p>
+<p>📚 Currently, I'm improving my English, React-js skills and challenge for works</p>
 <p>🤖 I’m looking for collaborate on frontend software engineering projects</p>
 
 #### 💻 Tech Stack:
